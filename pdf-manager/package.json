@@ -12,8 +12,10 @@
     "@nextui-org/react": "^2.6.11",
     "framer-motion": "^12.17.3",
     "next": "15.3.3",
+    "pdfjs-dist": "^4.8.69",
     "react": "^19.0.0",
-    "react-dom": "^19.0.0"
+    "react-dom": "^19.0.0",
+    "react-pdf": "^9.2.1"
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3",
